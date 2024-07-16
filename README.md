@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @dawgwhocares
+  
+- 👀 I’m interested in ...
+- game development, general computer shenanigans, and clown girls
+  
+- 🌱 I’m currently learning ...
+- html/css via the odin project, and then planning to learn lua
+  
+- 💞️ I’m looking to collaborate on ...
+- anything fun and easy
+  
+- 📫 How to reach me ...
+- dawgwhocares@gmail.com or dawgwhocares@protonmail.com (proton is my most consistent contact option, google sucks)
+  
+- 😄 Pronouns: ...
+- he/him OR alien/alien
+  
+- ⚡ Fun fact: ...
+- my favorite color is blue, i love cinnamoroll, and i'm allergic to eggs
